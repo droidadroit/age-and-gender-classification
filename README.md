@@ -1,3 +1,3 @@
 # age-and-gender-classification
 
-**Coming up:** An interactive tutoial on Google Colab on how to classify age and gender from the image of a person's face.
+[Google Colab Link](https://colab.research.google.com/drive/1NIFA8A1iYM328d8AalsY-ZbdTOS-gLFf?authuser=1#scrollTo=ox_PryLS4u2x)
